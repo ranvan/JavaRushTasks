@@ -1,2 +1,3 @@
 # JavaRushTasks
-123245
+
+This repo has JavaRush tasks.
